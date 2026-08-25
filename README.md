@@ -7,7 +7,6 @@
 Construindo aplicações web e mobile com foco em código limpo, integração e experiência do usuário.
 
 [![Email](https://img.shields.io/badge/EMAIL-FALE%20COMIGO-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieloliveiragutierrez@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-GeGekuuhaku-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GeGekuuhaku)
 
 📍 Caxias do Sul/RS · 🌎 Inglês fluente · 🎓 Ciência da Computação
 
