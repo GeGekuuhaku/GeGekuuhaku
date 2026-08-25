@@ -41,8 +41,8 @@ Além disso, desenvolvi bibliotecas próprias com contextos independentes para r
 
 ## Projeto em destaque
 
-<a href="https://github.com/GeGekuuhaku/FlowTask">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GeGekuuhaku&repo=FlowTask&theme=github_dark&hide_border=true&locale=pt-br" alt="FlowTask">
+<a href="https://github.com/gabrielogutierrez/FlowTask">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielogutierrez&repo=FlowTask&theme=github_dark&hide_border=true&locale=pt-br" alt="FlowTask">
 </a>
 
 <br><br>
@@ -53,12 +53,12 @@ Além disso, desenvolvi bibliotecas próprias com contextos independentes para r
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GeGekuuhaku&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeGekuuhaku&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielogutierrez&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielogutierrez&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas">
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeGekuuhaku&theme=github_dark" alt="Resumo de contribuições">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielogutierrez&theme=github_dark" alt="Resumo de contribuições">
 
 </div>
 
