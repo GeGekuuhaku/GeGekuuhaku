@@ -20,7 +20,9 @@ Construindo aplicações web e mobile com foco em código limpo, integração e 
 Sou desenvolvedor de software e estudante do 6º semestre de Ciência da Computação, com experiência profissional no desenvolvimento, manutenção e evolução de aplicações web e mobile.
 
 Atuei na KeyWorks com **Flutter, React Native, C#, TypeScript, SQL Server, MySQL e APIs REST**. Entre as entregas, desenvolvi um sistema de gestão de pessoas que tornou o cadastro de colaboradores aproximadamente **cinco vezes mais rápido**.
+<br>
 Atuei também no desenvolvimento de um sistema de controle de ponto integrado a uma solução de RH, trabalhando com regras de negócio e cálculos complexos, além de processos de importação e exportação de planilhas Excel. Desenvolvi relatórios utilizando QuestPDF, automações de notificações para Android e iOS e integrações com dispositivos de ponto, incluindo o ZKTeco SenseFace 2A. Também atuei na otimização de queries, alcançando melhorias de até 96% no tempo de execução, na criação de gráficos com Google Charts e na modelagem de domínio seguindo princípios de Domain-Driven Design (DDD).
+<br>
 Além disso, desenvolvi bibliotecas próprias com contextos independentes para reutilização e isolamento de responsabilidades e trabalhei com Azure Functions, incluindo a implementação de funções executadas periodicamente para automação de processos.
 
 ## Tecnologias
