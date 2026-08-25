@@ -41,13 +41,13 @@ Além disso, desenvolvi bibliotecas próprias com contextos independentes para r
 
 ## Projeto em destaque
 
-<a href="https://github.com/GeGekuuhaku/AplicativoMaiu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GeGekuuhaku&repo=AplicativoMaiu&theme=github_dark&hide_border=true&locale=pt-br" alt="Aplicativo Maiu">
+<a href="https://github.com/GeGekuuhaku/FlowTask">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GeGekuuhaku&repo=FlowTask&theme=github_dark&hide_border=true&locale=pt-br" alt="FlowTask">
 </a>
 
 <br><br>
 
-**Aplicativo Maiu** é uma aplicação multiplataforma de organização pessoal e bem-estar, desenvolvida em **.NET MAUI, C# e XAML**. O projeto inclui tarefas, meditação, navegação por Shell e compilação Android verificada automaticamente pelo GitHub.
+**FlowTask** é uma aplicação full stack de produtividade desenvolvida com **Flutter, C#, ASP.NET Core 8 e MySQL**. Possui autenticação JWT, CRUD de tarefas, busca, categorias, prioridades, testes automatizados, Docker e integração contínua no GitHub Actions.
 
 ## Estatísticas
 
