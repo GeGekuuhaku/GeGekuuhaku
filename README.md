@@ -1,84 +1,92 @@
-<h1 align="center">Olá, eu sou Gabriel Gutierrez 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Desenvolvedor de Software Full Stack e Mobile</strong><br>
-  Caxias do Sul, Rio Grande do Sul, Brasil
-</p>
+# Gabriel Gutierrez
 
-<p align="center">
-  <a href="mailto:gabrieloliveiragutierrez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Entrar%20em%20contato-3454D1?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
-</p>
+### Desenvolvedor de Software Full Stack & Mobile
+
+Construindo aplicações web e mobile com foco em código limpo, integração e experiência do usuário.
+
+[![Email](https://img.shields.io/badge/EMAIL-FALE%20COMIGO-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieloliveiragutierrez@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-GeGekuuhaku-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GeGekuuhaku)
+
+📍 Caxias do Sul/RS · 🌎 Inglês fluente · 🎓 Ciência da Computação
+
+</div>
+
+---
 
 ## Sobre mim
 
-Sou desenvolvedor de software e estudante do 6º semestre de Ciência da Computação. Tenho experiência profissional no desenvolvimento, manutenção e evolução de aplicações web e mobile, com atuação em novas funcionalidades, integrações com APIs REST, bancos de dados relacionais, testes e depuração.
+Sou desenvolvedor de software e estudante do 6º semestre de Ciência da Computação, com experiência profissional no desenvolvimento, manutenção e evolução de aplicações web e mobile.
 
-Na KeyWorks, participei do desenvolvimento de sistemas com **Flutter, React Native, C#, TypeScript, SQL Server e MySQL**. Entre as entregas, desenvolvi um sistema de gestão de pessoas que tornou o cadastro de colaboradores aproximadamente cinco vezes mais rápido.
-
-- 🎓 Ciência da Computação - Faculdade da Serra Gaúcha (FSG)
-- 💻 Experiência com desenvolvimento Full Stack e Mobile
-- 🌎 Inglês fluente - conversação, leitura e escrita
-- 📍 Caxias do Sul/RS
-- 📫 Contato: [gabrieloliveiragutierrez@gmail.com](mailto:gabrieloliveiragutierrez@gmail.com)
+Atuei na KeyWorks com **Flutter, React Native, C#, TypeScript, SQL Server, MySQL e APIs REST**. Entre as entregas, desenvolvi um sistema de gestão de pessoas que tornou o cadastro de colaboradores aproximadamente **cinco vezes mais rápido**.
 
 ## Tecnologias
 
-### Linguagens
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript)
-![C%23](https://img.shields.io/badge/C%23-1F2937?style=flat-square&logo=csharp)
+[![Tecnologias](https://skillicons.dev/icons?i=dotnet,cs,flutter,react,ts,js,vue,mysql,git,github&perline=10)](https://skillicons.dev)
 
-### Web e Mobile
+<br>
 
-![Vue.js](https://img.shields.io/badge/Vue.js-1F2937?style=flat-square&logo=vuedotjs)
-![Flutter](https://img.shields.io/badge/Flutter-1F2937?style=flat-square&logo=flutter)
-![React Native](https://img.shields.io/badge/React%20Native-1F2937?style=flat-square&logo=react)
-![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-1F2937?style=flat-square&logo=dotnet)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0F766E?style=for-the-badge&logo=fastapi&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Dados e Ferramentas
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-1F2937?style=flat-square&logo=microsoftsqlserver)
-![MySQL](https://img.shields.io/badge/MySQL-1F2937?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github)
+</div>
 
 ## Projeto em destaque
 
-### [Aplicativo Maiu](https://github.com/GeGekuuhaku/AplicativoMaiu)
+<a href="https://github.com/GeGekuuhaku/AplicativoMaiu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GeGekuuhaku&repo=AplicativoMaiu&theme=github_dark&hide_border=true&locale=pt-br" alt="Aplicativo Maiu">
+</a>
 
-Aplicativo multiplataforma desenvolvido com **.NET MAUI, C# e XAML**, reunindo recursos de organização pessoal e bem-estar. O projeto possui navegação por Shell e telas para tarefas, meditação, configurações, contato e informações da aplicação.
+<br><br>
 
-**Tecnologias:** .NET MAUI · C# · XAML
+**Aplicativo Maiu** é uma aplicação multiplataforma de organização pessoal e bem-estar, desenvolvida em **.NET MAUI, C# e XAML**. O projeto inclui tarefas, meditação, navegação por Shell e compilação Android verificada automaticamente pelo GitHub.
+
+## Estatísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GeGekuuhaku&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeGekuuhaku&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas">
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeGekuuhaku&theme=github_dark" alt="Resumo de contribuições">
+
+</div>
 
 ## Experiência
 
-**Desenvolvedor de Software Full Stack | KeyWorks**  
-_mar/2025 - jun/2026_
+### Desenvolvedor de Software Full Stack · KeyWorks
+**mar/2025 - jun/2026**
 
 - Desenvolvimento e evolução de aplicações web e mobile.
 - Implementação de funcionalidades, bibliotecas, notificações e integração com Excel.
-- Integração e consumo de APIs REST.
+- Consumo e integração de APIs REST.
 - Trabalho com SQL Server e MySQL.
 - Versionamento com Git e colaboração em metodologias ágeis.
-- Criação de sistema de RH que tornou o cadastro de colaboradores aproximadamente cinco vezes mais rápido.
+- Desenvolvimento de sistema de RH que tornou cadastros aproximadamente cinco vezes mais rápidos.
 
-**Preparador de Dados | Ezex**  
-_dez/2024 - fev/2025_
+### Preparador de Dados · Ezex
+**dez/2024 - fev/2025**
 
 - Configuração e manutenção de computadores e servidores Windows.
-- Administração de Active Directory e suporte técnico.
-- Configuração de redes e equipamentos.
+- Administração de Active Directory, redes e suporte técnico.
 
 ## Formação
 
-**Bacharelado em Ciência da Computação**  
+🎓 **Bacharelado em Ciência da Computação**  
 Faculdade da Serra Gaúcha (FSG) · 2024 - atualmente · 6º semestre
 
 ---
 
-<p align="center">
-  Disponível para oportunidades em desenvolvimento de software, Full Stack e Mobile.
-</p>
+<div align="center">
+
+### Disponível para oportunidades em Desenvolvimento Full Stack e Mobile
+
+[![Contato](https://img.shields.io/badge/Entrar%20em%20contato-gabrieloliveiragutierrez%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrieloliveiragutierrez@gmail.com)
+
+</div>
