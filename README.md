@@ -7,6 +7,7 @@
 Construindo aplicações web e mobile com foco em código limpo, integração e experiência do usuário.
 
 [![Email](https://img.shields.io/badge/EMAIL-FALE%20COMIGO-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieloliveiragutierrez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PERFIL%20PROFISSIONAL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gutierrez-607607331)
 
 📍 Caxias do Sul/RS · 🌎 Inglês fluente · 🎓 Ciência da Computação
 
