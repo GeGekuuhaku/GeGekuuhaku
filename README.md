@@ -80,8 +80,13 @@ Faculdade da Serra Gaúcha (FSG) · 2024 – atualmente · 6º semestre
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielogutierrez&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielogutierrez&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&langs_count=6" alt="Linguagens mais utilizadas">
+[![Perfil GitHub](https://img.shields.io/badge/Ver%20perfil%20no%20GitHub-gabrielogutierrez-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielogutierrez)
+[![Repositórios](https://img.shields.io/badge/Ver%20repositórios-Projetos%20públicos-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielogutierrez?tab=repositories)
+
+<br>
+
+[![FlowTask - último commit](https://img.shields.io/github/last-commit/gabrielogutierrez/FlowTask?style=flat-square&logo=github&label=FlowTask%20-%20%C3%BAltimo%20commit&color=0F766E)](https://github.com/gabrielogutierrez/FlowTask)
+[![FiscalFlow - último commit](https://img.shields.io/github/last-commit/gabrielogutierrez/FiscalFlow?style=flat-square&logo=github&label=FiscalFlow%20-%20%C3%BAltimo%20commit&color=7C3AED)](https://github.com/gabrielogutierrez/FiscalFlow)
 
 </div>
 
